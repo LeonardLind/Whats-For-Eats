@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Whats-For-Eats/static/css/main.a91de8be.css",
+    "main.js": "/Whats-For-Eats/static/js/main.cf29a026.js",
+    "static/js/787.fe62bd6d.chunk.js": "/Whats-For-Eats/static/js/787.fe62bd6d.chunk.js",
+    "static/media/kalops.jpg": "/Whats-For-Eats/static/media/kalops.9104f93527272cd93cbf.jpg",
+    "static/media/lax.jpg": "/Whats-For-Eats/static/media/lax.e8dd632edad4f8520967.jpg",
+    "static/media/tacos.jpg": "/Whats-For-Eats/static/media/tacos.cf9faf6f99c959e7fd9c.jpg",
+    "static/media/kycklingspett.jpg": "/Whats-For-Eats/static/media/kycklingspett.80284309b37f1873e3b0.jpg",
+    "static/media/tomatpasta.jpg": "/Whats-For-Eats/static/media/tomatpasta.b1af51000251cb2fe7d5.jpg",
+    "static/media/paneradfisk.jpg": "/Whats-For-Eats/static/media/paneradfisk.0a51ae9b53ff3188999c.jpg",
+    "static/media/smordegsflarn.jpg": "/Whats-For-Eats/static/media/smordegsflarn.5bf30ffe6c1f2aa8eb1c.jpg",
+    "static/media/svampsoppa.jpg": "/Whats-For-Eats/static/media/svampsoppa.d3030635d6bf78e1b031.jpg",
+    "static/media/kreolsk.jpg": "/Whats-For-Eats/static/media/kreolsk.b67a9a69096df5200b35.jpg",
+    "static/media/jordgubbssalladkyckling.jpg": "/Whats-For-Eats/static/media/jordgubbssalladkyckling.55cc4fe229149535bb9b.jpg",
+    "static/media/logo.png": "/Whats-For-Eats/static/media/logo.a1344db904fd5897ef1e.png",
+    "index.html": "/Whats-For-Eats/index.html",
+    "main.a91de8be.css.map": "/Whats-For-Eats/static/css/main.a91de8be.css.map",
+    "main.cf29a026.js.map": "/Whats-For-Eats/static/js/main.cf29a026.js.map",
+    "787.fe62bd6d.chunk.js.map": "/Whats-For-Eats/static/js/787.fe62bd6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a91de8be.css",
+    "static/js/main.cf29a026.js"
+  ]
+}
